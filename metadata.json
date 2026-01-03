@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Voice",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
